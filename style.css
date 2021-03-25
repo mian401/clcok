@@ -97,3 +97,29 @@
 
     margin: 0px 80px;
 }
+
+
+/* making design responsive */
+
+@media screen and (max-width: 900px){
+
+    #clock{
+
+        height: 80vw;
+        width: 80vw;
+    }
+}
+
+@media screen and (max-width: 600px){
+
+    #clock{
+
+        height: 73vw;
+        width: 73vw;
+    }
+
+    #time{
+
+        font-size: 23px;
+    }
+}
