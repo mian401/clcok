@@ -1,0 +1,5 @@
+rotaion for hour head  :  (30*hour)degrees + (minute / 2)degrees
+
+rotation for minute head  :  (6*minute)degrees
+
+rotation for seconds head  :  (6*seconds)degrees
